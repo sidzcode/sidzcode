@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Siddhi</h1>
+<h1 align="center">Hello, I'm Siddhi</h1>
 <h3 align="center">I am a student pursuing Master's in Data Science and Spatial Analytics from Symbiosis Institute of Geoinformatics, Pune.</h3>
 
 - 📫 How to reach me **23070243047@sig.ac.in**
